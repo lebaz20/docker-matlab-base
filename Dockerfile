@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM openjdk:8u171-jre
 
 ADD matlab.txt /mcr-install/matlab.txt
 
